@@ -1,0 +1,24 @@
+body{
+  margin: 0 auto;
+  text-align: center;
+  background-color: rgba(0, 0, 2, 0.81);
+}
+.background-color div{
+  width: auto;
+  height: 200px;
+  display: none
+}
+.list-color button{
+  width: 30px;
+  height: 30px;
+  border-radius: 100%;
+}
+#red{
+  background-color: red;
+}
+#blue{
+  background-color: blue;
+}
+#yellow{
+  background-color: yellow;
+}
